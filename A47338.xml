@@ -1,0 +1,398 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of Mr. William Allen, August 17, 1686 by Richard Kidder ...</title>
+            <author>Kidder, Richard, 1633-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47338</idno>
+            <idno type="STC">Wing K413</idno>
+            <idno type="STC">ESTC R2195</idno>
+            <idno type="EEBO-CITATION">12576871</idno>
+            <idno type="OCLC">ocm 12576871</idno>
+            <idno type="VID">63617</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63617)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 962:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of Mr. William Allen, August 17, 1686 by Richard Kidder ...</title>
+                  <author>Kidder, Richard, 1633-1703.</author>
+               </titleStmt>
+               <extent>[6], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Advertisement: p. [5]-[6]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allen, William, d. 1686.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63617:1"/>
+            <pb facs="tcp:63617:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the FUNERAL OF M<hi rend="sup">r</hi> William Allen, <hi>Auguſt</hi> 17. 1686.</p>
+            <p>By <hi>RICHARD KIDDER,</hi> Rector of S<hi rend="sup">t</hi> 
+               <hi>Martin Outwich, London.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PSALM xxxvii.</hi> v. <hi>37.</hi>
+               </bibl>
+               <p>Mark the perfect man, and behold the upright; for the end of that man is peace.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby</hi> at the <hi>Biſhop</hi>'s <hi>Head</hi> in S<hi rend="sup">t</hi> 
+               <hi>Paul</hi>'s Church-Yard. 1686.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:63617:2"/>
+            <p>
+               <hi>Imprimatur.</hi>
+            </p>
+            <p>Aug. <hi>23. 1686.</hi>
+            </p>
+            <p>C. Alſton R. P. D. Hen. Epiſc. Lond. à ſacris.</p>
+            <pb facs="tcp:63617:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63617:3" rendition="simple:additions"/>
+            <pb facs="tcp:63617:3"/>
+            <head>To his Honoured Friend M<hi rend="sup">rs</hi> 
+               <hi>ALICE ALLEN,</hi> Widow.</head>
+            <p>THE Sermon which follows, when I firſt com<g ref="char:EOLhyphen"/>poſed it, was never intended for the Preſs: I am very ſenſible of its defects, and that it is very ſhort of that Argument of which it treats: The Cha<g ref="char:EOLhyphen"/>racter which I have given of your late Husband de<g ref="char:EOLhyphen"/>ceaſed, falls ſhort alſo of that excellent man. It was a trouble to me that it fell to my ſhare to perform this laſt office. For though no man loved or eſteemed the good man more than I did, yet there were many that could have done him greater right. However, ſince it was your pleaſure to deſire it, I thought it became me not to diſpute the matter: And ſince what I did was accepted, and I was deſired to make it publick, I was willing to comply, in hopes that it might do ſome good: I know very well that a great example of Piety hath a conſiderable influence: And though I do not pretend to give the juſt and full Character of our deceaſed Friend; yet, I hope, what is ſaid, may be of ſome uſe to recom<g ref="char:EOLhyphen"/>mend ſubſtantial and unaffected Piety to mankind. If it gain this effect, I ſhall think my ſelf abundantly re<g ref="char:EOLhyphen"/>warded, and ſhall have great cauſe to bleſs God for it.</p>
+            <p>I am very ſenſible how great a loſs the death of ſuch a man is to the Publick, how great to my ſelf, and how
+<pb facs="tcp:63617:4"/>grievous to you his departure hence was. But we are to ſubmit to the will and wiſdom of God. He lived to good purpoſe and to a good old age; He is placed above Con<g ref="char:EOLhyphen"/>tingencies, and is out of the reach of Evil. He glori<g ref="char:EOLhyphen"/>fied God on the earth, and is now paſſed into the glory above. We may mourn for our ſelves, and at the ſame time ought not to forget to give God hearty thanks for his great goodneſs to him; we are to improve our loſs as well as to bear it with patience. And the hope we have of Heaven will be able to ſuſtain us; and if we cheriſh and increaſe this hope in our ſelves, we are cer<g ref="char:EOLhyphen"/>tain that whatever befals us will advance us toward that bleſſed ſtate. If we be good our ſelves 'twill not be in the power of any evil to render us miſerable; if we be not, nothing will make us happy.</p>
+            <p>But I need not tell you this, who have of a long time been a Diſciple and follower of Jeſus, and have made a wiſe choice of that better part which ſhall never be taken from you.</p>
+            <p>This following Diſcourſe belongs to you. I deſire your acceptance of it as a teſtimony of the honour I preſerve for the memory of your deceaſed Husband. I am</p>
+            <closer>
+               <signed>Your moſt aſſured Friend and Servant, <hi>RICHARD KIDDER.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:63617:4"/>
+            <head>Books written by M<hi rend="sup">r</hi> 
+               <hi>William Allen,</hi> lately Deceaſed, and Printed for <hi>Walter Kettilby</hi> at the <hi>Biſhop</hi>'s-<hi>Head</hi> in St. <hi>Paul</hi>'s Church-Yard.</head>
+            <p>A Perſwaſive to Peace and Unity, among Chriſtians, notwithſtanding their dif<g ref="char:EOLhyphen"/>ferent Apprehenſions in leſſer things. <hi>Octavo.</hi>
+            </p>
+            <p>A ſerious and friendly Addreſs to the Non-Conformiſts, beginning with the <hi>Anabaptiſts:</hi> or an Addition to the Perſwaſive to Peace and Unity. <hi>Octavo.</hi>
+            </p>
+            <p>The Grand Error of the <hi>Quakers</hi> detected and confuted, ſhewing how they contradict God's method of directing men to Salvation, by following that Light within, which comes by outward teaching, by their directing them to ſeek it by following that Light within, which is wrought without external teaching by the Scriptures, or by men, wherein thoſe things are conſidered likewiſe which have be<g ref="char:EOLhyphen"/>tray'd them into deluſion. <hi>Octavo.</hi>
+            </p>
+            <p>The Myſtery of Iniquity unfolded; or the falſe Apoſtles and the Authors of Popery com<g ref="char:EOLhyphen"/>pared
+<pb facs="tcp:63617:5"/>in their ſecular deſign and means of ac<g ref="char:EOLhyphen"/>compliſhing it, by corrupting the Chriſtian Re<g ref="char:EOLhyphen"/>ligion under pretence of promoting it. <hi>Oct.</hi>
+            </p>
+            <p>Animadverſions on that part of Mr. <hi>R. Fer<g ref="char:EOLhyphen"/>guſon</hi>'s Book, Intituled <hi>The Intereſt of Reaſon in Religion,</hi> which treats of Juſtification: In a Letter to a Friend. <hi>Octavo.</hi>
+            </p>
+            <p>A Practical Diſcourſe of Humility. <hi>Oct.</hi>
+            </p>
+            <p>The Chriſtians Juſtification ſtated. Shew<g ref="char:EOLhyphen"/>ing how the Righteouſneſs of Chriſt, the Go<g ref="char:EOLhyphen"/>ſpel-Covenant, Faith, and God himſelf, do operate to our Juſtification. <hi>Octavo.</hi>
+            </p>
+            <p>A Diſcourſe of Divine Aſſiſtance, and the method thereof: ſhewing what aſſiſtance men receive from God in performing the condition of the Promiſe of Pardon of ſin and eternal Life. <hi>Octavo.</hi>
+            </p>
+            <p>Catholiciſm, or ſeveral Enquiries touching Viſible Church-member-ſhip, Church-Com<g ref="char:EOLhyphen"/>munion, the nature of Schiſm; and the uſe<g ref="char:EOLhyphen"/>fulneſs of National Conſtitutions for the fur<g ref="char:EOLhyphen"/>therance of Religion. <hi>Octavo.</hi>
+            </p>
+            <p>Of the ſtate of the Church in future Ages; or an Inſpection into the Divine Prophecies, touching the ſtate of the Church in the latter Ages of the World. <hi>Octavo.</hi>
+            </p>
+            <trailer>
+               <hi>The End of the</hi> Catalogue.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:63617:5" rendition="simple:additions"/>
+            <head>
+               <hi>A</hi> Funeral Sermon.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Heb. xiii.</hi> v. <hi>14.</hi>
+                  </bibl>
+                  <p>For here we have no continuing City, but we ſeek one to come.</p>
+               </q>
+            </epigraph>
+            <p>FOR the better diſcerning the occaſion of theſe Words, we ſhall do well to look back to the ninth Verſe of this Chap<g ref="char:EOLhyphen"/>ter. There the Divine Author of this Epi<g ref="char:EOLhyphen"/>ſtle warns the <hi>Hebrews</hi> not to be <hi>carried about with diverſe and ſtrange Doctrines:</hi> They would be ſollicited by their Countrymen, the <hi>Jews,</hi> to fall back to Judaiſm, and to entertain the Doctrines and Obſervances of the Moſaical Law, and of thoſe who adhered to it. He tells them that it <hi>is a good thing that the heart be eſtabliſhed with Grace:</hi> That is, that the mind or ſoul ſhould be refreſhed and nouriſhed with
+<pb n="2" facs="tcp:63617:6"/>thoſe Spiritual and Evangelical Doctrines, concerning the Pardon of Sin, and Eternal Life, <hi>&amp;c.</hi> which were made known to them by Jeſus Chriſt: As for Meats, about which the Law of <hi>Moſes</hi> gave particular directions, and eſpecially the portions of the Victims which were aſſigned by that Law to the Prieſt or People, however they had been trained up in thoſe Obſervances, yet it is manifeſt <hi>they have not profited them that have been occupied there<g ref="char:EOLhyphen"/>in.</hi> That is, they have not been rendred bet<g ref="char:EOLhyphen"/>ter by theſe Meats who have been, according to the Law, uſed to them.</p>
+            <p>It follows, <hi>v.</hi> 10. <hi>We have an Altar whereof they have no right to eat, which ſerve the Tabernacle.</hi> By <hi>Altar</hi> here is meant the <hi>Victim,</hi> or <hi>Sacrifice:</hi> And this is evident from the Words. For we cannot be ſaid to eat of the Altar any other<g ref="char:EOLhyphen"/>wiſe than as we eat a portion of the Sacrifice which was offered upon the Altar. Thus St. <hi>Paul</hi> tell us,<note place="margin">1 Cor. 9.13.</note> that <hi>they which miniſter about holy thing live of the Temple; and they which wait at the Altar, are Partakers with the Altar.</hi> Again, <hi>Are not they which eat of the Sacrifices Partakers of the Altar?</hi>
+               <note place="margin">10.18.</note> The meaning of the Words then is this, That we, that are Chriſtians, are not in<g ref="char:EOLhyphen"/>deed without a Sacrifice, the great propitiato<g ref="char:EOLhyphen"/>ry
+<pb n="3" facs="tcp:63617:6" rendition="simple:additions"/>Sacrifice of Chriſt offered upon the Croſs, the Antitype of the greater expiatory Sacrifi<g ref="char:EOLhyphen"/>ces among the <hi>Jews,</hi> under the Law of <hi>Moſes:</hi> But then the <hi>Jews,</hi> that <hi>ſerve the Tabernacle, i. e.</hi> who adhere to the Judaical Rites and Obſer<g ref="char:EOLhyphen"/>vances; eſpecially the ſervice of Sacrifices, which was annexed to the Tabernacle, and was typical of what was to be fulfilled by the <hi>Meſſias.</hi> The <hi>Jews,</hi> I ſay, who continue ſo to do, have no right to the benefits of this Sacri<g ref="char:EOLhyphen"/>fice: They embrace the Shadow when the Subſtance is exhibited, and by doing ſo, ex<g ref="char:EOLhyphen"/>clude themſelves from any advantage from this more excellent Sacrifice.</p>
+            <p>For the more fully comprehending this whole matter, and the deſign of the Divine Author of this Epiſtle, in this Diſcourſe of his, it is to be remembred that under the Law of <hi>Moſes</hi> there were ſeveral ſorts of Victims or Sacrifices preſcribed. There were <hi>Holo<g ref="char:EOLhyphen"/>cauſts,</hi> or <hi>whole Burnt-Offerings,</hi> which were in<g ref="char:EOLhyphen"/>tirely conſumed upon the Altar, of which no portion was allowed either to the Prieſt or Of<g ref="char:EOLhyphen"/>ferer. This was intirely God's, and conſequent<g ref="char:EOLhyphen"/>ly the whole was conſumed. There were o<g ref="char:EOLhyphen"/>thers which were <hi>Treſpaſs</hi> or <hi>Sin-Offerings,</hi> where a portion was allowed to be eaten by
+<pb n="4" facs="tcp:63617:7"/>the Prieſt that ſerved the Tabernacle, but no part to the Offerer. There were a third ſort of Offerings, commonly called <hi>Peace Offer<g ref="char:EOLhyphen"/>ings,</hi> where part was burnt on the Altar, part allowed to the Prieſt, and another portion to the Offerer. Here God had his <hi>part,</hi> which was offered on the Altar; The Prieſt had his, and the People theirs. And though generally ſpeaking, the Prieſt was allowed to eat a part of the Sin-Offerings, yet ſo it was, that there were ſome of them, out of which the Prieſt who miniſtred and ſerved the Tabernacle, was not allowed to eat any part, and they were the Sin-Offerings which were offered on the great Day of Expiation, and all thoſe Sacrifices, the Blood whereof was brought in<g ref="char:EOLhyphen"/>to the Sanctuary, and the Fleſh of them burnt without the Camp. Theſe laſt were the moſt eminent Types of the Death of Chriſt, who was ſacrificed for us, and the Correſpondence between theſe and Chriſt's Death is very re<g ref="char:EOLhyphen"/>markable. Theſe things being premiſed, I proceed to ſhew how the Divine Author of this Epiſtle, does from the oeconomy of the Moſaical Law concerning theſe Sacrifices, prove that thoſe who fell back to Judaiſm in this matter, rendred themſelves uncapable of
+<pb n="5" facs="tcp:63617:7" rendition="simple:additions"/>the benefits of the Sacrifice of the Death of Chriſt. And thus he proceeds.</p>
+            <p>
+               <hi>For the bodies of thoſe beaſts whoſe blood is brought into the Sanctuary by the High Prieſt for Sin, are burnt without the Camp.</hi>
+               <note place="margin">
+                  <hi>v.</hi> 11.</note> Theſe words give us an account of the practice of the <hi>Jews,</hi> under the Law of <hi>Moſes, viz.</hi> That for thoſe Sin-Offerings, the blood whereof was brought into the Sanctuary, no portion of the fleſh was allowed to be eaten by the Prieſt or Peo<g ref="char:EOLhyphen"/>ple, but it was to be intirely conſumed with<g ref="char:EOLhyphen"/>out the Camp: of theſe Offerings they had no right to eat, who ſerved the Sanctuary. Thus it was in the Type. Let us ſee how it was with the Antitype.</p>
+            <p>
+               <hi>Wherefore Jeſus alſo,</hi>
+               <note place="margin">
+                  <hi>v.</hi> 12.</note> 
+               <hi>that he might ſanctifie the people with his own blood, ſuffered without the gate.</hi> By ſanctifying the people is meant the making Expiation or Atonement for them; the clean<g ref="char:EOLhyphen"/>ſing them from their ſin.<note place="margin">Heb. 10.14, 29.</note> 
+               <hi>By one Offering he hath perfected for ever them that are ſanctified.</hi> This he did with his <hi>own blood;</hi> The Aaroni<g ref="char:EOLhyphen"/>cal Prieſt did it with the blood of the Victim. And that Jeſus might anſwer to the Type (that ſo there might a better agreement between the Type and the Antitype) he ſuffered without the gate. In this he anſwered exactly
+<pb n="6" facs="tcp:63617:8"/>to the Sacrifice for ſin, which was burnt with<g ref="char:EOLhyphen"/>out the Camp. For certain it is that the City of <hi>Jeruſalem</hi> anſwered to the Camp of <hi>Iſrael</hi> during the ſojourning of that people. That which was to be done without the Camp they were afterwards obliged to do without the gate of the City. The carrying of the Fleſh of the Sin-Offering out of the Camp was an intimation that it was impure, and looked on as an accurſed and unclean thing: In confor<g ref="char:EOLhyphen"/>mity to which, our Jeſus, who was made a Curſe for us, ſuffered without the Gate of the City.</p>
+            <p>
+               <hi>Let us go forth therefore unto him without the Camp,</hi>
+               <note place="margin">
+                  <hi>v.</hi> 13.</note> 
+               <hi>bearing his reproach. q. d.</hi> Let us now, after ſuch an edample, imitate our Lord Je<g ref="char:EOLhyphen"/>ſus. Let us not only forſake the Judaical Ob<g ref="char:EOLhyphen"/>ſervances, which were Types now fulfilled in Him; but be it ſo that we are excluded from Communion with our fellow Citizens, and deprived of our Eaſe and worldly Advan<g ref="char:EOLhyphen"/>tages: yet let us conſider what Indignities Je<g ref="char:EOLhyphen"/>ſus endured, and not refuſe thoſe Sufferings which he underwent. And though it may ſeem hard to be deprived of our Country and Eaſe, yet we that are Chriſtians muſt conſi<g ref="char:EOLhyphen"/>der that it is our Lot in this World to meet
+<pb n="7" facs="tcp:63617:8" rendition="simple:additions"/>with theſe Evils, and that our happineſs lies in reverſion in the next.</p>
+            <p>
+               <hi>For here we have no continuing City,</hi>
+               <note place="margin">
+                  <hi>v.</hi> 14.</note> 
+               <hi>but we ſeek one to come.</hi> In which words I do obſerve,</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> The condition of Chriſtians in this Would. <hi>Here we have no continuing City.</hi>
+               </item>
+               <item>
+                  <hi>Secondly,</hi> Their endeavour after a better condition, <hi>But we ſeek one to come.</hi>
+               </item>
+            </list>
+            <p>Firſt, We have laid before us the condition of Chriſtians in this World. <hi>For here we have no continuing City;</hi> This is a Truth which is evi<g ref="char:EOLhyphen"/>dent at firſt ſight, it needs no proof: I ſhall not therefore inſiſt upon it. This we may learn without a Text or Preacher. We dye dayly, and we are hurried from place to place whiles we live here. The firſt Inhabitants of the World indeed made a long ſtay in it. It was fit that that new Plantation ſhould have Inhabitants that might ſtay a longer time to cultivate and repleniſh it. It was then per<g ref="char:EOLhyphen"/>haps hardly known that the Son dyed a natu<g ref="char:EOLhyphen"/>ral death before his Father. Their time was generally drawn out to a great extent. And they of all men ſeemed to have a continuing City upon Earth. But yet they dyed at laſt, and made it evident that this lower World was never intended for their conſtant place of abode.</p>
+            <pb n="8" facs="tcp:63617:9"/>
+            <p>In after times the ages of men were contract<g ref="char:EOLhyphen"/>ed, and we read of <hi>Abraham</hi> that <hi>he ſojourned in the Land of Promiſe,</hi>
+               <note place="margin">Heb. 11.9, 10.</note> 
+               <hi>as in a ſtrange Country, dwelling in Tabernacles with Iſaac and Jacob, &amp;c.</hi> and that he <hi>looked for a City which hath foundations, whoſe builder and maker is God.</hi> Thoſe holy men of old <hi>confeſſed that they were Strangers and Pilgrims on the Earth.</hi>
+               <note place="margin">
+                  <hi>v.</hi> 13.</note> And by doing ſo they acknowledged that they had here no continuing City: <hi>For they that ſay ſuch things,</hi>
+               <note place="margin">
+                  <hi>v.</hi> 14.</note> 
+               <hi>declare plainly that they ſeek a Country.</hi> So that this Truth was underſtood before the Holy Scriptures were written. Thoſe holy men liv'd much longer than we do; but they ſtill eſteemed themſelves but as Sojourners in the World, and not only becauſe they had left their Native Countries, thither they might have returned, but would have been but So<g ref="char:EOLhyphen"/>journers ſtill:<note place="margin">
+                  <hi>v.</hi> 15, 16.</note> But <hi>they deſired a better Country, that is an heavenly.</hi>
+            </p>
+            <p>The truth is, we are in this World as in an Inn, and Paſſage to our future and endleſs State: our life is but a travel, and a very ſore one many times it is: we deceive our ſelves if we think to dwell and abide here, our journeys end lies further, and I may well be<g ref="char:EOLhyphen"/>ſpeak you in the Prophet's words,<note place="margin">Micah 2.10.</note> 
+               <hi>Ariſe ye and depart, for this is not your reſt.</hi>
+            </p>
+            <pb n="9" facs="tcp:63617:9" rendition="simple:additions"/>
+            <p>Indeed the firſt Chriſtians found this true in an high degree, when the Apoſtle could ſay, <hi>even unto this preſent hour we both hunger and thirst,</hi>
+               <note place="margin">1 Cor. 4.11.</note> 
+               <hi>and are naked, and are buffeted,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>and have no certain dwelling place.</hi>
+            </p>
+            <q>Incerti quo fata ferant, ubi ſiſtere detur.</q>
+            <p>And thoſe holy men did accordingly live in the World. They conſidered that it was not their place of reſt, and therefore they uſed it as if they uſed it not, and had their converſa<g ref="char:EOLhyphen"/>tions in Heaven.</p>
+            <p>We are indeed declined much, and have but little more left among us than the name of Chriſtians: we live as if we had here a continuing City; we trade and traffick, we purchaſe and we build, we deſign, and contrive, and beſtir our ſelves, as if we were to ſtay here always, and did not ſo much as deſign any thing beyond this Life. We are very diligent in our purſuit of our wordly de<g ref="char:EOLhyphen"/>ſigns; upon that ſcore we ſweat and toil, pro<g ref="char:EOLhyphen"/>ject and deſign, and weary out our ſelves, when in the mean time we live in neglect of that City which is to come.</p>
+            <p>How happy were it for us that we lived as thoſe that believe they have here no continu<g ref="char:EOLhyphen"/>al
+<pb n="10" facs="tcp:63617:10"/>City. How much would this diſintangle us from our worldly cares, and our great anxi<g ref="char:EOLhyphen"/>eties? We ſhould neither mourn, as men with<g ref="char:EOLhyphen"/>out hope, for our loſſes, nor yet be vainly tranſported with our proſperous ſucceſſes: we ſhould in great meaſure be rid of the evils of this life, and in a greater preparation for a better. But this is not that which I mainly deſigned to diſcourſe of when I made choice of theſe words: I proceed to conſider,</p>
+            <p>Secondly, The Chriſtians endeavour after a better condition. <hi>But we ſeek one to come.</hi>
+            </p>
+            <p>For my better proceeding I ſhall conſider,</p>
+            <list>
+               <item>I. The deſcription of that better conditi<g ref="char:EOLhyphen"/>on: It is a <hi>City,</hi> and a <hi>continuing</hi> City, though it be to <hi>come.</hi>
+               </item>
+               <item>II. The condition on our part toward the obtaining it, we <hi>muſt ſeek.</hi>
+               </item>
+               <item>III. The application of the whole.</item>
+            </list>
+            <p n="1">I. The deſcription of that better condition which we hope for; It is a <hi>City,</hi> a <hi>continuing</hi> City, though indeed it be to <hi>come.</hi>
+            </p>
+            <p>A City it is, and not a barren and waſt wil<g ref="char:EOLhyphen"/>derneſs, like this World that is full of hurtful and wild Beaſts. It is the receptacle of thoſe bleſſed Souls that are at perfect freedom and liberty from their follies, and from
+<pb n="11" facs="tcp:63617:10" rendition="simple:additions"/>their pains; and not a Cage or Priſon of unclean and miſerable creatures. It is not a waſt piece of ground without Inhabi<g ref="char:EOLhyphen"/>tants, but it is repleniſhed with an <hi>innumerable company of Angles and the general aſſembly of the Church of the firſt-born.</hi>
+               <note place="margin">Rev. 21.10.</note> We have a large de<g ref="char:EOLhyphen"/>ſcription of the Heavenly <hi>Jeruſalem,</hi> that great and holy City which deſcends from Heaven: This is the place in which God dwells; The <hi>glory of God</hi> is here,<note place="margin">
+                  <hi>v.</hi> 22.</note> and <hi>the Lord God Almighty and the Lamb are the temple of it.</hi> This City has no <hi>need of Sun or Moon,</hi>
+               <note place="margin">
+                  <hi>v.</hi> 23.</note> 
+               <hi>for the glory of God lightens it, and the Lamb is the light thereof.</hi> And here are all thoſe bleſſed Souls that have fol<g ref="char:EOLhyphen"/>lowed the Lamb, and continued conſtant to him to the death. Here are all the holy Pa<g ref="char:EOLhyphen"/>triarchs and Prophets, Martyrs and Confeſ<g ref="char:EOLhyphen"/>ſors, the glorious Company of the Apoſtles. And not only theſe, but (thanks be to God for it) <hi>a great multitude which no man can number,</hi>
+               <note place="margin">Rev. 7.9.</note> 
+               <hi>of all Nations, and Kindreds, and People, and Tongues — with white robes and palms in their hands.</hi> Bleſſed be God, Heaven will receive all good ſouls, though they were not dignified and ad<g ref="char:EOLhyphen"/>vanced to be Prophets or Apoſtles. And theſe holy ſouls are <hi>before the throne of God, and ſerve him day and night in his temple;</hi>
+               <note place="margin">15, 16, 17.</note> 
+               <hi>and he that
+<pb n="12" facs="tcp:63617:11"/>ſitteth on the throne ſhall dwell among them. They ſhall hunger no more, neither thirſt any more, neither ſhall the Sun light on them, nor any heat. For the Lamb which is in the midſt of the throne ſhall feed them, and ſhall lead them unto living fountains of waters, and God ſhall wipe away all tears from their eyes.</hi> Such a City is the City of God, and the <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> that is above. That is the place of <hi>Righteouſneſs</hi> and Peace, of great and inflamed Charity and good Will. There Juſtice and Truth, Righteouſneſs and Peace mutually embrace one another. There is no breaking in or going out, no complaining in thoſe ſtreets. None of the hurries nor the cries, the labour and the toil which our earthly Ci<g ref="char:EOLhyphen"/>ties are troubled withal.</p>
+            <p>But it is a <hi>Continuing</hi> City alſo, and this ought to recommend it to us: ſuch a City as <hi>Abraham</hi> by faith had the expectation of. <hi>For he looked for a City which hath foundations,</hi>
+               <note place="margin">Heb. 11.10.</note> 
+               <hi>whoſe builder and maker is God.</hi> We have indeed an account of the foundations of the heavenly <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> in the Apocalypſe.<note place="margin">Rev. 21.19.</note> We ſhall no long<g ref="char:EOLhyphen"/>er be perſecuted from City to City, no longer be diſturb'd in our poſſeſſions, and forced to quit our habitations, no longer be diſturb'd and affrighted by our enemies, as we are in
+<pb n="13" facs="tcp:63617:11" rendition="simple:additions"/>our Cities here below: where many times the Watchman waketh but in vain, and he al<g ref="char:EOLhyphen"/>ways does ſo unleſs the Lord keep the City. Here we are forced to be upon our guard, and we have our enemies within and without. 'Tis otherwiſe in the heavenly <hi>Jeruſalem.</hi>
+               <note place="margin">
+                  <hi>v.</hi> 25.</note> 
+               <hi>The gates of it ſhall not be ſhut at all by day.</hi> And that is enough as to this City; <hi>for there ſhall be no night there.</hi> There will be a perpetual peace and aſſurance for ever. There will be a conſtant ſhine without ſo much as the ap<g ref="char:EOLhyphen"/>pearance of a cloud, no evil Zealots within, nor Armies without, to give us any care or trouble. We ſhall be for ever ſecure, not from evil only, but from evil tydings too; Our hope will be ſwallowed up in fruition, and all our uneaſie fears will be baniſhed for ever. In a word, we ſhall dwell with God, and ſhall for ever be with the Lord.</p>
+            <p>It is true indeed, that this glorious ſtate is to come: It is at ſome diſtance, and lies be<g ref="char:EOLhyphen"/>yond this World, and this frail and mortal Life. We muſt paſs through a howling de<g ref="char:EOLhyphen"/>ſart before we come at that good land. But then ſtill we have ſome fore-taſtes of the plea<g ref="char:EOLhyphen"/>ſant fruits of that Country here, and may take a proſpect of it, and a <hi>Piſgah</hi> ſight, and are
+<pb n="14" facs="tcp:63617:12"/>well aſſured that in God's good time we ſhall be received into a full fruition of it, if we continue in well doing and faint not. I there<g ref="char:EOLhyphen"/>fore proceed to conſider,</p>
+            <p n="2">II. The condition on our part towards the obtaining it, We muſt <hi>ſeek—We ſeek one to come.</hi>
+            </p>
+            <p>We render it <hi>ſeek,</hi> but it is a compound Verb, and is obſerved to ſignifie <hi>to ſeek ear<g ref="char:EOLhyphen"/>neſtly,</hi> and vehemently to purſue what we profeſs to ſeek for. 'Tis <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which the Latin renders by <hi>inquirimus:</hi> And 'twill be worth our while to conſider the uſe of the word elſewhere, that we may the better learn our duty in this matter. Our Saviour tells us that many ſhall ſeek to enter in at the ſtrait gate and ſhall not be able,<note place="margin">Luk. 13.24.</note> and therefore puts us upon ſtriving to enter in. St. <hi>Luke</hi> uſes the ſimple Verb there, and it is hence evi<g ref="char:EOLhyphen"/>dent that the word in my Text implies more than that word does, though we render them both alike. This word in my Text is uſed in the Goſpels, and from the uſe of it there we may well interpret it in this place. Our Savi<g ref="char:EOLhyphen"/>our commands his Diſciples to take no thought for meat,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Matth. 6.32. Luk. 12.30.</note> or drink, or clothing <hi>(For after all theſe things do the Gentiles ſeek)</hi> ſays our Saviour.</p>
+            <p>This kind of ſeeking is required of us; if
+<pb n="15" facs="tcp:63617:12" rendition="simple:additions"/>ever we would enjoy this City which is to come, we muſt ſeek as men have done for food and rayment, for the neceſſaries of life. We muſt not think to get thither with a few cold and formal Prayers, and that a profeſſion of the true faith alone will ſecure us of it. We muſt ſweat, and labour, and ſeek after it, as we do for our daily bread. We muſt ſeek as for ſilver, and ſearch as for hid treaſures. We muſt uſe violence and force upon the King<g ref="char:EOLhyphen"/>dom of Heaven, and 'twill well become us to uſe the ſame diligence which other men uſe for Dignities and Wealth. Our endeavours after Heaven muſt be very diligent, and the Holy Scriptures intimate no leſs when they expreſs it by words which import the greateſt labour and caution: Thus we know it is ex<g ref="char:EOLhyphen"/>preſs'd by <hi>fighting,</hi> and <hi>running,</hi> and <hi>ſtriving,</hi> and <hi>giving</hi> all <hi>diligence,</hi> by words that do im<g ref="char:EOLhyphen"/>port great earneſtneſs and contention of mind.</p>
+            <p>And as the word imports thus much, ſo does the reward, which we labour for, exact it at our hands. 'Tis for a City, and a con<g ref="char:EOLhyphen"/>tinuing one; 'Tis that when we are ſtripped of all our properties, turn'd out of this earth<g ref="char:EOLhyphen"/>ly Tabernacle, that we may have an ever<g ref="char:EOLhyphen"/>laſting
+<pb n="16" facs="tcp:63617:13"/>habitation, that we may live happily and live for ever. If life and peace, if un<g ref="char:EOLhyphen"/>ſpeakable joys at God's right hand, if an E<g ref="char:EOLhyphen"/>ternity of all theſe ſignifies any thing, we have cauſe to labour and give all diligence, eſpecially when it is conſidered what pains we take, and what difficulties we ſubmit to in the purſuit of honour and wealth, of ſenſual plea<g ref="char:EOLhyphen"/>ſures, and ſuch things as neither quiet our minds when we have obtained them, nor will abide with us for any conſiderable time. Here's ſomething worth our contending for; ſomething greater than our eye hath ever ſeen, our ear hath heard, or our heart can compre<g ref="char:EOLhyphen"/>hend. Here's that which is worth our ſtri<g ref="char:EOLhyphen"/>ving and contending for: ſomething that will make amends, and more than that, for all our pain and labour. For if there be any thing in the World that may attract, or command our application and endeavours, the ſame and a greater reaſon will move us here. We have here every thing that is great and good, that is beautiful and laſting in this continuing City to ingage our endeavours: And the ve<g ref="char:EOLhyphen"/>ry hope we have of Heaven is the greateſt treaſure that we have in the World.</p>
+            <p n="3">III. But I proceed to the application of what hath been already ſaid.</p>
+            <pb n="17" facs="tcp:63617:13" rendition="simple:additions"/>
+            <p n="1">I. If we have no continuing City here, then ought we not to be much affected with any thing that is here below: why ſhould we let our hearts go aſtray after thoſe things which we ſhall not long enjoy? We may trade indeed and traffick, we may buy and ſell, we may marry and give in marriage, build and mer<g ref="char:EOLhyphen"/>chandiſe, and continue in the ſeveral offices and imployments in which God hath ſet us: But we ought to remember that we ſhall not continue here for ever, and that the faſhion of this World paſſeth away. Let us then uſe the World as if we uſed it not. This is the uſe which the Apoſtle makes of this Conſiderati<g ref="char:EOLhyphen"/>on, <hi>But this, I ſay, Brethren, the time is ſhort,</hi>
+               <note place="margin">1 Cor. 7.29.30, 31.</note> 
+               <hi>it remaineth that both they that have Wives be as though they had none, and they that weep as though they wept not, and they that rejoyce as though they rejoyced not, and they that buy as though they poſ<g ref="char:EOLhyphen"/>ſeſſed not, and they that uſe this World as not abuſing it; for the faſhion of this World paſſeth away.</hi> We ought not to be much concerned for thoſe things that cannot concern or affect us long.</p>
+            <p n="2">2. What our hand finds to do let us do it ſpeedily and with all our might.<note place="margin">Eccl. 9.10.</note> Our op<g ref="char:EOLhyphen"/>portunities will not continue for ever. This I
+<pb n="18" facs="tcp:63617:14"/>would exhort you to, eſpecially with reference to your repentance toward God, and your charity to ward your Brother. 'Tis great fol<g ref="char:EOLhyphen"/>ly to delay that which muſt be done, and 'tis little leſs than madneſs to live in that ſtate in which we ſhould be loth to dye.</p>
+            <p n="3">3. Let us not be overmuch afflicted for the death of our Chriſtian Friends and Relatives. Their way lies farther as well as ours; we ſhall not be long before we follow them; we may as well mourn becauſe they were mor<g ref="char:EOLhyphen"/>tal, as mourn for their death; there is nothing ſtrange in it, that he that is mortal ſhould dye, any more than that that which is brittle ſhould break. We are deſigned for another and bet<g ref="char:EOLhyphen"/>ter World; we are here upon tryal, and at the will of our Lord, we there ſhall be with him for ever. <hi>Jeſus</hi> could ſay to his Diſciples, <hi>If ye loved me,</hi>
+               <note place="margin">Joh. 14.28.</note> 
+               <hi>ye would rejoyce becauſe I ſaid, I go unto the Father.</hi> And he comforts his follow<g ref="char:EOLhyphen"/>ers with this, that in his fathers houſe were many manſions, and that he was going to prepare a place for them.</p>
+            <p n="4">4. Let us then be exhorted to apply all our care and thoughts to ſecure to our ſelves the City that is to come. Let us aſpire after thoſe things that are eternal; thoſe joys that are at
+<pb n="19" facs="tcp:63617:14" rendition="simple:additions"/>God's right hand for evermore. Let us turn all our ſorrows that way, and endeavour that all our afflictions may diſpoſe and prepare us for our everlaſting reſt.</p>
+            <p>And methinks I ſhould need no other mo<g ref="char:EOLhyphen"/>tive than what my words lay before us, <hi>viz.</hi> that we have here no continuing City; this is a very powerful argument to perſwade us to ſeek one to come. We have no aſſurance of our ſtay in this lower World, and it is therefore highly reaſonable that we ſhould make proviſion for our ſelves when this lower World ſhall know us no more. It is high time to conſider whither we ſhall go when we de<g ref="char:EOLhyphen"/>part this mortal life, which for what we can tell may be the next moment.</p>
+            <p>Let us then, from the conſideration of the miſery and uncertainty of this World, be a<g ref="char:EOLhyphen"/>wakened to a timely care of our eternal in<g ref="char:EOLhyphen"/>tereſt. Let the death of our friends awaken us to provide againſt our own: The pain of our Bodies and the loſs of our Goods excite us to a greater care to make ſure of that bleſſed ſtate where all tears ſhall be wiped from our eyes, and labour and toil ſhall ceaſe for ever.</p>
+            <p>It will not be long before we ſhall be ſtrip<g ref="char:EOLhyphen"/>ped
+<pb n="20" facs="tcp:63617:15"/>of theſe Bodies, and divorced from theſe comforts of life which now we pleaſe our ſelves withal: It is as much our Intereſt as it is our Duty to provide our ſelves a ſhare and portion in theſe heavenly Manſions.</p>
+            <p>There is no example of mortality before our eyes, but preaches this doctrine to us. The World daily proclaims to us its own uncer<g ref="char:EOLhyphen"/>tainty, and we are aloud called upon to pro<g ref="char:EOLhyphen"/>vide that we may be receiv'd into everlaſting habitations.<note place="margin">Luke 16.9.</note>
+            </p>
+            <p>Now is the time of doing this; and if we delay it any longer 'tis a peradventure whe<g ref="char:EOLhyphen"/>ther we ſhall ever do it or no. We are neither ſure of our life, nor can we be certain that the Grace of God (if we now repulſe it) will follow us irreſiſtibly to our laſt breath.</p>
+            <p>Life and death are before us, unſpeakable joys and everlaſting burnings. Let us ſhew our ſelves wiſe, and do good to our ſelves; let us no longer trifle, but with all care and di<g ref="char:EOLhyphen"/>ligence purſue heavenly things: I ſhall end all with the words of the Author of this E<g ref="char:EOLhyphen"/>piſtle, <hi>Let us therefore fear,</hi>
+               <note place="margin">Heb. 4.1.</note> 
+               <hi>leſt a promiſe being left us of entring into his reſt, any of you ſhould ſeem to come ſhort of it.</hi>
+            </p>
+            <pb n="21" facs="tcp:63617:15" rendition="simple:additions"/>
+            <p>It may be very juſtly expected that I ſhould ſay ſomething now of our deceaſed Brother, and worthy Friend, Mr. <hi>William Allen,</hi> upon whoſe account we are met together.</p>
+            <p>We have great Cauſe to bleſs God for his mercies to him; he is departed this life in his Faith and Fear; he is diſcharged from the toil and contingencies of this mortal life: And as he was a moſt conſpicuous example of Chriſtian Vertues, ſo (I make no doubt) he hath received a moſt glorious reward, and is paſſed into the City that continues for ever.</p>
+            <p>I do not intend to borrow any Topicks for his praiſe from his Country, or Deſcent, from his Quality or Rank as he was a Citizen of this great City: I need not go ſo far out of the way: He was valuable upon greater accounts than theſe: He was a Citizen of a better Ci<g ref="char:EOLhyphen"/>ty, that of God: He was an old and faithful Diſciple of Jeſus, a great lover of God and of Righteouſneſs. This is more than all his other Properties.</p>
+            <p>'Tis Religion that exalts our Natures: This is the great ornament of humane kind: 'Tis this makes us like that God whom we a<g ref="char:EOLhyphen"/>dore and whom we praiſe. 'Tis the beſt of all our Titles, the higheſt of our Prerogatives,
+<pb n="22" facs="tcp:63617:16"/>and top of our Attainments. There is nothing that is fit to vye with this: antient Deſcent, depth of Learning, ſwelling Titles, large Poſſeſſions, Strength and Beauty, Craft and Subtlety, all theſe, and more than theſe, are, in compare with Piety and Goodneſs, lighter than Vanity.</p>
+            <p>Our dear Friend was a great lover and moſt devout worſhipper of God. He did it in Publick, he did it in his Family, he did it in his Cloſet. He did with great reverence at<g ref="char:EOLhyphen"/>tend upon the publick Prayers, hearing of the Word, and frequently received the Holy Sa<g ref="char:EOLhyphen"/>crament. He taught his Children and Ser<g ref="char:EOLhyphen"/>vants to ſerve God: A true Child of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> the friend of God. He kept up a ſenſe of God in his Family, and had his retirements and holy privacies.</p>
+            <p>He ſpent great portions of his time in retire<g ref="char:EOLhyphen"/>ment: He was a moſt diligent inquirer after truth: He ſought Wiſdom as Silver, and ſearched for her as for hid Treaſures: Nor did his labour prove in vain, for he did un<g ref="char:EOLhyphen"/>derſtand the fear of the Lord, and find the knowledge of God: God had given him a great and clear underſtanding, a ſolid judg<g ref="char:EOLhyphen"/>ment and ability; and he improved his Talent to a very great purpoſe.</p>
+            <pb n="23" facs="tcp:63617:16" rendition="simple:additions"/>
+            <p>He read the Holy Scriptures with wonder<g ref="char:EOLhyphen"/>ful care and diligence, attained to great un<g ref="char:EOLhyphen"/>derſtanding of the more abſtruſe parts of them; and though he had not the advantage of the Learned Languages to direct him, yet by acquainting himſelf with thoſe who had, and by indefatigable diligence he did arrive to ſo great a meaſure of knowledge of thoſe things which they do contain, as would be very com<g ref="char:EOLhyphen"/>mendable in a well-ſtudied Divine.</p>
+            <p>He wrote ſeveral excellent Books that need no recommendation to the World: They are well known and well eſteemed, and the greateſt Clerk will have no cauſe to be aſham<g ref="char:EOLhyphen"/>ed to have them placed among the other Au<g ref="char:EOLhyphen"/>thors with which he is furniſhed.</p>
+            <p>The Arguments he choſe were weighty, and of great uſe to the World: He de<g ref="char:EOLhyphen"/>ſigned to detect Iniquity, Enthuſiaſm, and Superſtition, which had corrupted the Reli<g ref="char:EOLhyphen"/>gion of Jeſus: He perſwaded men to Unity and Peace, and to ſhun all Schiſm and Facti<g ref="char:EOLhyphen"/>on: He endeavoured to reduce thoſe who were gone aſtray, to mind them of the Di<g ref="char:EOLhyphen"/>vine Aſſiſtance, and to perſwade them to the profoundeſt humility; and to comfort good men with a juſt expectation of the Church's
+<pb n="24" facs="tcp:63617:17"/>emerging from its ſtate of ſin and miſery into a better condition. Such were the arguments which this wiſe and good Man choſe. I may truly ſay of him what one of the Ancients ſays of <hi>Socrates,</hi>
+               <note place="margin">Liban. So<g ref="char:EOLhyphen"/>phiſta So<g ref="char:EOLhyphen"/>crat. Apol.</note> that he did not apply himſelf to trifling and leſs uſeful things; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>He promoted that knowledge which was like to have the greateſt efficacy upon men.</hi>
+            </p>
+            <p>He menaged his Arguments with great judgment and Charity: He ſpake the truth in love. He did not contend for Victory, but Truth. His Writings ſpeak a right Chri<g ref="char:EOLhyphen"/>ſtian Temper all along. He was no <hi>Gladia<g ref="char:EOLhyphen"/>tor</hi> in Theology, no lover of Theological Contentions: He had beaten his Sword into a Plough-ſhare, and his Spear into a Pruning<g ref="char:EOLhyphen"/>hook. The Inſtruments he uſed ſerved to cultivate and improve, and to pare away what was ſuperfluous, and what was hurtful: He had no skill to hurt and deſtroy in the mountain of the Lord.</p>
+            <p>His great knowledge did not puff him up: His Charity and Humility and Modeſty held proportion to it. He was far removed from an high conceit of himſelf or contempt of o<g ref="char:EOLhyphen"/>thers: He was far from being pert and talka<g ref="char:EOLhyphen"/>tive,
+<pb n="25" facs="tcp:63617:17" rendition="simple:additions"/>far from oſtentation and ſhew, from in<g ref="char:EOLhyphen"/>ſulting over his Adverſary, or vaunting of his Victories.</p>
+            <p>With reſpect to his Neighbour, He may be truly ſaid to have been a Righteous Man in the moſt comprehenſive ſenſe of that word.</p>
+            <p>He was exactly juſt to all men in his Deal<g ref="char:EOLhyphen"/>ings and Trade; of this there is no queſtion: And thoſe that knew him well can tell that in making up his Accounts he was ſcrupulouſly ſo, and took great care that an errour or mi<g ref="char:EOLhyphen"/>ſtake in his Correſpondent ſhould not be to his prejudice. He was greatly careful to do no wrong, and had learnt to forgive. I doubt not but the Character given to <hi>Pomponius Atti<g ref="char:EOLhyphen"/>cus</hi> belongs to him: <hi>Nullas inimicitias geſſit;</hi>
+               <note place="margin">C. Nepos. P. Attic.</note> 
+               <hi>quod neque laedebat quenquam; neque ſiquam injuri<g ref="char:EOLhyphen"/>am acceperat, non malebat ulciſci, quam obliviſci. He had no quarrels, for he did no injury; and if any were done to him, he rather choſe to forget than to re<g ref="char:EOLhyphen"/>venge.</hi> There are few men, perhaps, have paſſed through the World with leſs offence to it than this good man hath done. His ways pleaſed God, and He ſo provided, that his Enemies (if he had any ſuch) ſhould be at peace with him.</p>
+            <pb n="26" facs="tcp:63617:18"/>
+            <p>But he did not only do no harm, but did much good in the World: He was not only <hi>juſt</hi> to all, but <hi>merciful</hi> to the afflicted, to the poor and needy. He had a great ſenſe of the miſeries of others: He was a moſt compaſſio<g ref="char:EOLhyphen"/>nate Chriſtian. He did not love in word nor in tongue, but in deed and in truth. The love of God dwelt in him, and by this he was conſtrained, and could not ſhut up his Bowels of Compaſſion from his Brother. He need<g ref="char:EOLhyphen"/>ed no Motives, or Arguments, 'twas enough to name the Objects. He ſtood ready al<g ref="char:EOLhyphen"/>ways and prepared, and neither wanted Abi<g ref="char:EOLhyphen"/>lity or Inclination to help the afflicted.</p>
+            <p>Indeed this humble Soul avoided the no<g ref="char:EOLhyphen"/>tice, and the praiſe of men: He that in o<g ref="char:EOLhyphen"/>ther things was open and free, ſtudied con<g ref="char:EOLhyphen"/>cealment here. He gave geverally with his own hands, and wiſely diſpoſed of his Cha<g ref="char:EOLhyphen"/>rity to thoſe whom he thought the fitteſt Ob<g ref="char:EOLhyphen"/>jects. But yet for all his Care and his Art he could not altogether be concealed. I have great reaſon to believe, from what I have the certain knowledge of, that he gave great ſumms and large proportions, and that both the pri<g ref="char:EOLhyphen"/>ſoners and other diſtreſſed perſons have loſt one of their greateſt Friends, and for his pro<g ref="char:EOLhyphen"/>portion
+<pb n="27" facs="tcp:63617:18" rendition="simple:additions"/>one of their moſt generous Benefa<g ref="char:EOLhyphen"/>ctors. But ſince it was the pleaſure of our dear Brother to beſtow in ſecret, out of re<g ref="char:EOLhyphen"/>ſpect and deference to his memory and his inclination I will not ſearch after the particu<g ref="char:EOLhyphen"/>lar inſtances of his Bounty.</p>
+            <p>Certain it is, that ſhewing mercy is a great imitation of God. Speaking the truth and doing good offices are the two things which render us like him. The Heathen juſtly ſhews his indignation againſt the impu<g ref="char:EOLhyphen"/>dence of thoſe who mention the quarrels, and feuds, and thefts, and villanies of their Gods, and adds,<note place="margin">
+                  <hi>Plin. Nat. Hiſt.</hi> l. 2. c. 7.</note> 
+               <hi>Deus eſt mortali juvare morta<g ref="char:EOLhyphen"/>lem, &amp; haec ad aeternam gloriam via.</hi> To help another is to be like God, and is the way to immortality. 'Tis the beſt of our proper<g ref="char:EOLhyphen"/>ties. — <hi>Titulis &amp; faſcibus olim major habebatur donandi gloria</hi>—</p>
+            <p>In a word, our Dear Brother was a great example to us of modeſty and humility, of obedience to Superiours, of diligence in improving all the portions of his time, of fi<g ref="char:EOLhyphen"/>delity and integrity, of kindneſs and great calmneſs and prudence, if we conſider him as an Husband, a Father, a Neighbour or a Friend.</p>
+            <pb n="28" facs="tcp:63617:19"/>
+            <p>His latter end was like his former life; 'twas even and undiſturbed: He then ſhewed his Faith in God and reſignation to his will, his concern for the Church, and his well<g ref="char:EOLhyphen"/>grounded hope of eternal life.</p>
+            <p>A little before his Death he called for his Family, and as became a dying Chriſtian, and one that was ſenſible of his departure hence, he exhorted them eſpecially to two things,</p>
+            <list>
+               <item>Firſt; That they ſhould preſerve in their minds a lively ſenſe, and make a thankful ac<g ref="char:EOLhyphen"/>knowledgment of the love of Chriſt, who for our ſake was content to become a man, and to ſubmit to Death, even the Death of the Croſs. He required them to conſider that this was for our ſakes purely, and that Jeſus could be induced by no intereſt to do this, but that which was peculiarly and ſolely ours.</item>
+               <item>Secondly, That they would be ſteady and conſtant in a courſe of Piety and true Religi<g ref="char:EOLhyphen"/>on, well knowing the hazzards and tempta<g ref="char:EOLhyphen"/>tions of this mortal life, and that we loſe our labour if we do not perſevere unto the end.</item>
+            </list>
+            <p>Having ſaid theſe things he prayed that God would ſend them an happy meeting in a<g ref="char:EOLhyphen"/>nother and better World.</p>
+            <pb n="29" facs="tcp:63617:19" rendition="simple:additions"/>
+            <p>Having ſet his houſe in order, and diſpoſed himſelf for another World, he gave up his Spirit into the hands of his God, his merciful Creator, which (I make no doubt) is added to the Spirits of Juſt Men made perfect.</p>
+            <p>Thus did our dear Friend live in the World, and thus did he leave it. He lived above it, and was prepared to leave it. He was one of the greateſt Patterns of the Chriſtian Life that this age hath produced, and did by his life prove the <hi>truth</hi> and <hi>practicableneſs</hi> of the Chriſtian Doctrine, and expreſs the luſtre and goodlineſs of Chriſtianity at the ſame time. In him we might ſee the lovelyneſs of Religi<g ref="char:EOLhyphen"/>on, and how well fitted it is to mend our own tempers, and to render us uſeful to the World.</p>
+            <p>In him we might behold great knowledge and the profoundeſt humility. An ability to teach others, and the greateſt docibility or readineſs to learn: The courage and reſolu<g ref="char:EOLhyphen"/>tion of a Confeſſor, and at the ſame time the humility of a little Child. A great Charity without vaunting, a great Zeal without fa<g ref="char:EOLhyphen"/>ction, and a diligent purſuit of truth without dogmatizing or ſtudy of Parties.</p>
+            <p>In his converſe with others he was <hi>grave</hi> but
+<pb n="30" facs="tcp:63617:20"/>not <hi>moroſe,</hi> very gentle and friendly, highly civil and obliging. His diſcourſe was ſerious and heavenly, not frothy and trifling. He ſpake well of mankind, and was very prone to hope the beſt of all. He was not full of diſ<g ref="char:EOLhyphen"/>courſe, but it was always like the good man, modeſt and inoffenſive, and ſuch as miniſtred to edifie or inſtruct.</p>
+            <p>He had a great ſenſe of any evil that the Church of God felt, and perhaps few men that lived were more concerned than he for the ſuf<g ref="char:EOLhyphen"/>ferings of his fellow Chriſtians: But ſtill he was far from murmuring or diffidence, but had a ſtedfaſt Faith in God's Providence, and did greatly incourage others to hope in God: He well conſidered the uſefulneſs of afflictions, and endeavoured to good purpoſe to awaken men to pray fervently for the Church of Chriſt, and to depend upon God for the fulfilling all thoſe excellent promiſes which have not as yet received their accompliſhment.</p>
+            <p>He was for a very conſiderable part of his life a Man of Trade and worldly Buſineſs; God bleſſed his endeavours, and the good man plyed his calling; but his great care was to labour for the Bread that endureth. He was more careful to keep the World out of his
+<pb n="31" facs="tcp:63617:20" rendition="simple:additions"/>heart, than to get it into his poſſeſſion: He was not only juſt and charitable, when he traffick'd and dealt in worldly things, but hea<g ref="char:EOLhyphen"/>venly alſo. He did not relinquiſh the World, and then pretend to deſpiſe it. He overcame the World more generouſly; He kept in it and was abſtracted from it; He uſed it, but was as if he uſed it not. He was Religious in his Shop, Heavenly-minded upon the Ex<g ref="char:EOLhyphen"/>change, innocent and undefiled in the preſs and crowd of crafty, and deſigning, and de<g ref="char:EOLhyphen"/>praved men.</p>
+            <p>For ſome time before his Death he left off Trading, and gave himſelf to Reading and Devotion, to fervent Prayers and Meditations of Heaven and heavenly things, to Works of Piety and Charity, and the cloſe conſideration of his ſtate toward God. He wiſely conſidered that it was fit there ſhould be a conſiderable ſpace of time allowed between the hurries of life and the great work of dying well. He knew when he had enough of the World, and had learnt the true uſe of Riches. And now he diſpenſed to others what he had gained in his younger time: And he took care to ſeaſon what he left behind him by Alms and acts of mercy and relief.</p>
+            <pb n="32" facs="tcp:63617:21"/>
+            <p>In a word, He was a very eminent Exam<g ref="char:EOLhyphen"/>ple of Chriſtian Vertues, greatly eſteem'd by all good and wiſe men who knew him, and mean only in his own Eyes.</p>
+            <p>And what cauſe have we who ſurvive to bleſs God for ſuch an eminent example of Pi<g ref="char:EOLhyphen"/>ety and Charity, of meekneſs and humbleneſs of mind, and thoſe other Virtues which ren<g ref="char:EOLhyphen"/>dered him conſpicuous.</p>
+            <p>I think upon the whole matter I may apply to him what <hi>Cicero</hi> ſaid upon the Death of <hi>Craſſus,</hi>
+               <note place="margin">
+                  <hi>De Orat.</hi> l. 3.</note> 
+               <hi>Non tam ereptam ei vitam à Diis immor<g ref="char:EOLhyphen"/>talibus, ſed donatam mortem.</hi> That God <hi>cannot ſo properly be ſaid to have taken away his life as to have beſtowed death upon him as a Boon and great Bleſ<g ref="char:EOLhyphen"/>ſing.</hi> God of his infinite mercy grant that we may follow the example of our Dear Brother, and that we may <hi>not be ſlothful but followers of them who through faith and patience inherit the pro<g ref="char:EOLhyphen"/>miſe.</hi>
+               <note place="margin">Heb. 6.12.</note>
+            </p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:63617:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
